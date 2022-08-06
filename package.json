@@ -2,7 +2,7 @@
   "name": "spauno",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Byiringiro-saad.github.io/F_Spauno",
+  "homepage": "https://byiringiro-saad.github.io/F_Spauno/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
